@@ -1,1 +1,2 @@
 First time testing command dir
+Second string
