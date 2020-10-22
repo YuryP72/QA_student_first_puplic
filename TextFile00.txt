@@ -1,2 +1,3 @@
 First time testing command dir
 Second string
+3 string
